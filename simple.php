@@ -5,7 +5,8 @@ require 'src/whatsprot.class.php';
 
 $wa = new WhatsProt('919865237431', 'Mohammed Talha', false);
 $wa->connect();
-$wa->loginWithPassword('nKhcLDvr05p0wX8sdfx8jKZjdfpNgasdcE=');
+$wa->loginWithPassword('nKhcLDvr05p0wX8x8jKZjpNgdcE=');
+
 $to = '919788179303';
 
 
